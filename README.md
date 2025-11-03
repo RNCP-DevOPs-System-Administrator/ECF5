@@ -3,7 +3,7 @@
 
 #  🧪 PREPARER UN ENVIRONNEMENT DE TEST
 
-## Node.js + ANSIBLE + TERRAFORM Deployment
+## 🚀 Node.js + ANSIBLE + TERRAFORM Deployment
 
 ### ⚙️ Création branche "TEST" sur  le VCS et une "Organisation Test" sur TERRAFORM Cloud
 
